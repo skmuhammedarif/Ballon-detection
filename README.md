@@ -2,9 +2,7 @@ AI-Based Balloon Detection System for Interceptor Drones
 
 Overview
  
-The AI-Based Balloon Detection System is a real-time computer vision project developed for detecting balloons using deep learning and live video processing. The system was trained on a custom dataset containing more than 1000 annotated balloon images to achieve accurate detection under different conditions.
-This project was designed to support interceptor drone operations, where real-time balloon detection is required for aerial surveillance, monitoring, and autonomous targeting applications.
-The model can detect multiple balloons simultaneously through a live webcam feed or recorded video input.
+The AI-Based Balloon Detection System is a real-time computer vision project developed for detecting balloons using deep learning and live video processing. The system was trained on a custom dataset containing more than 1000 annotated balloon images to achieve accurate detection under different conditions.This project was designed to support interceptor drone operations, where real-time balloon detection is required for aerial surveillance,monitoring, and autonomous targeting applications.The model can detect multiple balloons simultaneously through a live webcam feed or recorded video input.
 ________________________________________
 Key Features
  
